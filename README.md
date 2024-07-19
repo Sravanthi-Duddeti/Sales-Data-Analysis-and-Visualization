@@ -62,7 +62,7 @@ Amazon Web Services (AWS) Account for RDS and EC2**<br>
 **Log In**: Use your credentials to log in to the platform.<br>
 **Explore Dashboards**: Navigate through the various dashboards to gain insights into sales data.<br>
 **Final Dashboard**<br>
-https://github.com/user-attachments/assets/79be9c7e-3088-4074-8ff4-99b9d80756cd
+https://github.com/user-attachments/assets/79be9c7e-3088-4074-8ff4-99b9d80756cd<br>
 **Presentaion**<br>
 [DATA VISTA PPT final.pptx](https://github.com/user-attachments/files/16314744/DATA.VISTA.PPT.final.pptx)
 
