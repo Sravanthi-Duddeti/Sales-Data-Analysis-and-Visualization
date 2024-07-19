@@ -61,5 +61,11 @@ Amazon Web Services (AWS) Account for RDS and EC2**<br>
 **Access the Platform:** Open your web browser and navigate to the deployed EC2 instance URL.<br>
 **Log In**: Use your credentials to log in to the platform.<br>
 **Explore Dashboards**: Navigate through the various dashboards to gain insights into sales data.<br>
-**Final Dashboard**[https://github.com/Sravanthi-Duddeti/Sales-Data-Analysis-and-Visualization/blob/main/Data_Vista]
-**Presentaion**[https://github.com/Sravanthi-Duddeti/Sales-Data-Analysis-and-Visualization/blob/main/DATA%20VISTA%20PPT%20final.pptx[
+**Final Dashboard**<br>
+https://github.com/user-attachments/assets/79be9c7e-3088-4074-8ff4-99b9d80756cd
+**Presentaion**<br>
+[DATA VISTA PPT final.pptx](https://github.com/user-attachments/files/16314744/DATA.VISTA.PPT.final.pptx)
+
+
+
+
