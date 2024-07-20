@@ -1,6 +1,6 @@
 # Sales-Data-Analysis-and-Visualization
  ## **Overview**
-Data Vista is a comprehensive data analysis and visualization platform for sales data, developed during a two-month Data Visualization internship at Infosys Springboard. The project aims to provide businesses with in-depth analysis of sales performance, trends, and patterns through user-friendly and interactive visualizations.<br>
+Data Vista is a comprehensive data analysis and visualization platform for sales data, developed during a three-month Data Visualization internship at Infosys Springboard. The project aims to provide businesses with in-depth analysis of sales performance, trends, and patterns through user-friendly and interactive visualizations.<br>
  ## **Project Objectives**<br>
 Develop a data analysis and visualization platform for sales data.<br>
 Provide insights into sales performance, trends, and patterns.<br>
